@@ -1,8 +1,6 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## React Basics Project
+
+URL: https://react-basic-project-by-kish.netlify.app/
 
 In the project all the basic concepts of react are implemented. 
 This repo is for reference purposes.
